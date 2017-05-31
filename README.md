@@ -1,2 +1,2 @@
 # spring-hib
-spring hib cxf 
+spring hib cxf test!

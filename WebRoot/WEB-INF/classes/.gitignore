@@ -1,0 +1,8 @@
+/applicationContext-service.xml
+/applicationContext-webservice.xml
+/applicationContext.xml
+/com
+/db.properties
+/dispatcher-servlet.xml
+/hibernate.cfg.xml
+/log4j.properties
