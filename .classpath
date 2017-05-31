@@ -4,14 +4,7 @@
 	<classpathentry kind="src" path="src/config"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container">
-	<!--
-	<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	-->
-		
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="lib/activemq-all-5.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/activemq-spring-5.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/ant-1.6.5.jar"/>
@@ -40,12 +33,6 @@
 	<classpathentry kind="lib" path="lib/druid-1.0.9-modify.jar"/>
 	<classpathentry kind="lib" path="lib/ehcache-core-2.2.0.jar"/>
 	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
-	<classpathentry kind="lib" path="lib/flex-messaging-common.jar"/>
-	<classpathentry kind="lib" path="lib/flex-messaging-core.jar"/>
-	<classpathentry kind="lib" path="lib/flex-messaging-opt.jar"/>
-	<classpathentry kind="lib" path="lib/flex-messaging-proxy.jar"/>
-	<classpathentry kind="lib" path="lib/flex-messaging-remoting.jar"/>
-	<classpathentry kind="lib" path="lib/flex-rds-server.jar"/>
 	<classpathentry kind="lib" path="lib/geronimo-activation_1.1_spec-1.0.2.jar"/>
 	<classpathentry kind="lib" path="lib/geronimo-annotation_1.0_spec-1.1.1.jar"/>
 	<classpathentry kind="lib" path="lib/geronimo-javamail_1.4_spec-1.6.jar"/>
