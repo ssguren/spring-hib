@@ -1,4 +1,4 @@
 # spring-hib
-spring hib cxf test!
+sh cxf test!
 
 for sqlserver or mysql
