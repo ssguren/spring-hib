@@ -23,6 +23,7 @@
 			org.springframework.web.util.Log4jConfigListener
 		</listener-class>
   </listener>
+  <!-- 
   <servlet>
     <servlet-name>proxool</servlet-name>
     <servlet-class>
@@ -30,7 +31,6 @@
 		</servlet-class>
     <load-on-startup>0</load-on-startup>
   </servlet>
-  <!-- 
   <servlet-mapping>
     <servlet-name>proxool</servlet-name>
     <url-pattern>/proxool</url-pattern>
